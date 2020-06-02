@@ -4,3 +4,9 @@ body {
 img{
   max-width: 100%;
 }
+
+@color: yellow;
+body {
+  background: @color;
+}
+
